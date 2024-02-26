@@ -1,10 +1,9 @@
 
-# StudyNotion - EdTech Platform
+# Learnify - EdTech Platform
 :rocket: [Link to website][(https://learnify-frontend-theta.vercel.app/)]
 
 
-![Main Page](images/mainpage.png)
-StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
+Learnify is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 ## Table of Contents
 
@@ -22,7 +21,7 @@ StudyNotion is a fully functional EdTech platform that enables users to create, 
 
 ## Introduction
 
-StudyNotion aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. Additionally, the platform serves as a platform for instructors to showcase their expertise and connect with learners across the globe.
+Learnify aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. Additionally, the platform serves as a platform for instructors to showcase their expertise and connect with learners across the globe.
 
 In the following sections, we will cover the technical details of the platform, including the system architecture, API design, installation, usage instructions, and potential future enhancements.
 
@@ -92,19 +91,18 @@ The back-end of StudyNotion uses several data models and database schemas to man
 
 The database for the platform is built using MongoDB, a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data. The database stores the course content, user data, and other relevant information related to the platform.
 
-![Database Schema](images/schema.png)
 
 ### Architecture Diagram
 
 Below is a high-level diagram that illustrates the architecture of the StudyNotion EdTech platform:
 
-![Architecture](images/architecture.png)
+
 
 ## API Design
 
 The StudyNotion platform's API is designed following the REST architectural style. The API is implemented using Node.js and Express.js. It uses JSON for data exchange and follows standard HTTP request methods such as GET, POST, PUT, and DELETE.
 
-For detailed API documentation and endpoints, refer to the [API Documentation](/api-docs).
+For detailed API documentation and endpoints.
 
 ## Installation
 
