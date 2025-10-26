@@ -1,9 +1,9 @@
 
-# Learnify - EdTech Platform
-:rocket: [Link to website][(https://learnify-frontend-theta.vercel.app/)]
+# StudyNotion - EdTech Platform
+:rocket: [Link to website][(https://Study Notion-frontend-theta.vercel.app/)]
 
 
-Learnify is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
+Study Notion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ Learnify is a fully functional EdTech platform that enables users to create, con
 
 ## Introduction
 
-Learnify aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. Additionally, the platform serves as a platform for instructors to showcase their expertise and connect with learners across the globe.
+Study Notion aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. Additionally, the platform serves as a platform for instructors to showcase their expertise and connect with learners across the globe.
 
 In the following sections, we will cover the technical details of the platform, including the system architecture, API design, installation, usage instructions, and potential future enhancements.
 
